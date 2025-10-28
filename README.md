@@ -34,3 +34,11 @@ O projeto também inclui uma interface gráfica simples (Swing) para interação
 1️⃣ Clone o repositório:
 ```bash
 git clone https://github.com/Soaresanag/Modelagem-esfera.git
+
+
+👩‍💻 Autora
+
+Ana Luiza Soares Gonçalves
+🎓 Estudante de Ciência da Computação - PUC Goiás
+💻 Apaixonada por desenvolvimento e tecnologia
+🌐 GitHub: Soaresanag
